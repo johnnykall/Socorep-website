@@ -303,6 +303,11 @@ footer span {
 
 footer a {
   padding: 0;
+  text-align: center;
+}
+footer div span p{
+    text-align: center;
+    align-items: center;
 }
 
 @media screen and (max-width: 860px) {
@@ -375,4 +380,8 @@ footer a {
     width: 100%;
     margin-bottom: 30px;
   }
+}
+.imgdiv{
+    align-items: center;
+    text-align: center;
 }
