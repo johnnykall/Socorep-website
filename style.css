@@ -23,7 +23,7 @@ header {
   width: 100%;
   display: flex;
   justify-content: center;
-  background: #333;
+  background: #155287;
 }
 
 .navbar {
@@ -77,7 +77,7 @@ header a:hover, footer a:hover {
   height: 100vh;
   width: 100%;
   position: relative;
-  background: url("images/home-bg.jpg");
+  background: url("images/logos.jpg");
   background-position: center 65%;
   background-size: cover;
   background-attachment: fixed;
@@ -133,7 +133,7 @@ header a:hover, footer a:hover {
 
 .content a:hover {
   color: #fff;
-  background: rgba(255,255,255,0.3);
+  background: rgba(17, 100, 130, 0.3);
 }
 
 section {
@@ -241,7 +241,7 @@ section .cards .card {
 }
 
 .contact .col p i {
-  color: #7a7a7a;
+  color: #4d8e9a;
   margin-right: 10px;
 }
 
@@ -252,7 +252,7 @@ section .cards .card {
   width: 100%;
   font-size: 16px;
   outline: none;
-  border: 1px solid #bfbfbf;
+  border: 1px solid #059fec;
 }
 
 .contact form textarea {
@@ -318,7 +318,7 @@ footer div span p{
     display: block;
     height: 100vh;
     top: 75px;
-    background: #333;
+    background: #185a80;
     transition: left 0.3s ease;
   }
 
