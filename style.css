@@ -13,6 +13,7 @@ html {
 
 body {
   background: #f2f2f2;
+  margin: 15px;
 }
 
 header {
@@ -287,6 +288,7 @@ footer {
   justify-content: center;
   background: #000;
   padding: 20px 0;
+  margin-top: 15px;
 }
 
 footer div {
@@ -318,7 +320,7 @@ footer div span p{
     display: block;
     height: 100vh;
     top: 75px;
-    background: #185a80;
+    background: #1c69ad;
     transition: left 0.3s ease;
   }
 
@@ -374,7 +376,6 @@ footer div span p{
     height: 0;
   }
 }
-
 @media screen and (max-width: 560px) {
   section .cards .card {
     width: 100%;
